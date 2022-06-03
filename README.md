@@ -23,6 +23,9 @@ I am picky about my variable names, they ought to fit into context and be cohere
 
 
 ## [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rabipedia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/RabiPedia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Rabipedia)  
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabipedia)](https://github.com/anuraghazra/github-readme-stats)
 
