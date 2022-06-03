@@ -18,7 +18,7 @@ Allowing concrete achievements - academic or otherwise - to speak for me is quit
 I am picky about my variable names, they ought to fit into context and be coherent in my code. Unless it's an experimental project. Then I'd use x and y until I am certain the program even works.
 
 
-## Skills:
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
