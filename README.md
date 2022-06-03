@@ -17,6 +17,7 @@ Allowing concrete achievements - academic or otherwise - to speak for me is quit
 🌺 I take great interest in reading,  I also love to travel and playing football. 
 
 Coding-specific bit 💻
+
 I am picky about my variable names, they ought to fit into context and be coherent in my code. Unless it's an experimental project. Then I'd use x and y until I am certain the program even works.
 
 
