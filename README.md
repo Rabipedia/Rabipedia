@@ -9,8 +9,11 @@ A very condensed bio 🌸
 Allowing concrete achievements - academic or otherwise - to speak for me is quite uncomfortable, but they are the most convenient metric to hand someone who has no other data.
 
 🍁 January, 2021 I've completed my graduation from International Islamic University Chittagong.
+
 🌻 Currently, I am learning MERN Stack development. 
+
 🥅 2022 Goals: Learn more about web development and get a job.
+
 🌺 I take great interest in reading,  I also love to travel and playing football. 
 
 Coding-specific bit 💻
