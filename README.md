@@ -5,13 +5,13 @@ I'm a MERN stack developer. A tech enthusiast who loves to program, and explore 
 
 Allowing concrete achievements - academic or otherwise - to speak for me is quite uncomfortable, but they are the most convenient metric to hand someone who has no other data.
 
-🍁 January, 2021 I've completed my graduation from International Islamic University Chittagong.
+🍁 January 2021 I completed my graduation from International Islamic University Chittagong.
 
 🌻 Currently, I am learning MERN Stack development. 
 
-🥅 2022 Goals: Learn more about web development and get a job.
+🥅 2024 Goals: Learn more about tech.
 
-🌺 I take great interest in reading,  I also love to travel and playing football. 
+🌺 I take a great interest in reading,  and I also love to travel and play football. 
 
 ## Coding-specific bit 💻
 
